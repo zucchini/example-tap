@@ -1,11 +1,4 @@
 Sample Farm
 ===========
 
-This is a Zucchini farm with configuration samples.
-
-To use it, run
-
-    $ zucc farm add https://github.com/zucchini/sample-farm.git sample-farm
-    $ zucc init sample-farm/sample-assignment
-    $ cd sample-assignment
-    $ zucc XYZ, whatever you wanna do
+This is a Zucchini farm with configuration samples. It is used as part of the Sample Workflow in https://zucchini.readthedocs.io/en/latest/usage.html
